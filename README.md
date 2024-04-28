@@ -2,6 +2,18 @@
 
 Ruby programming language training
 
+https://github.com/hwpplayer1/ruby-dojo
+
+https://gitlab.com/hwpplayer1/ruby-dojo
+
+https://git.sr.ht/~mertgor/ruby-dojo
+
+https://git.vern.cc/hwpplayer1/ruby-dojo
+
+https://git.disroot.org/hwpplayer1/ruby-dojo
+
+https://codeberg.org/hwpplayer1/ruby-dojo
+
 # License
 
 MIT License
