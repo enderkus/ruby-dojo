@@ -1,5 +1,7 @@
 2024-04-30  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* puts-example.rb: puts example printing string and calculating 4-1
+
 	* hello-world-two-strings-newline.rb: Hello world examples two string different lines, or newline added
 
 	* hello-world-two-strings.rb: Hello world examples with to strings in same line
